@@ -8,7 +8,7 @@ namespace HomeWork_Seminar_9
     {
         static void Main(string[] args)
         {
-            //Для корректной работы программы json файл - стандартно "JsonToParse.json" должен находится в корневой директории исполняемого файла
+            //Для корректной работы программы json файл - стандартно "JsonToParse.json" должен находиться в корневой директории исполняемого файла
 
 
             JsonDocument? json = default;
